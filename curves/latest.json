@@ -1,1 +1,10 @@
-
+{
+  "as_of": "2026-05-17",
+  "updated_at": "2026-05-17T00:00:00Z",
+  "curves": {
+    "cdi": {"source": "placeholder", "vertices": []},
+    "pre": {"source": "placeholder", "vertices": []},
+    "ipca_real": {"source": "placeholder", "vertices": []}
+  },
+  "note": "Placeholder. Real curve data lands when B9a Phase 1 + admin script ship."
+}
