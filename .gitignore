@@ -1,0 +1,6 @@
+# Admin input files — must never land in this public repo
+BDI_00_*.pdf
+*.ods
+*.csv
+.~lock.*#
+*~
