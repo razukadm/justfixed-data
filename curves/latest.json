@@ -199,31 +199,31 @@
     "vertices": [
       {
         "business_days": 126,
-        "rate": 0.139471
+        "rate": 0.139729
       },
       {
         "business_days": 252,
-        "rate": 0.137606
+        "rate": 0.137988
       },
       {
         "business_days": 378,
-        "rate": 0.137371
+        "rate": 0.137698
       },
       {
         "business_days": 504,
-        "rate": 0.137905
+        "rate": 0.138105
       },
       {
         "business_days": 630,
-        "rate": 0.138742
+        "rate": 0.138795
       },
       {
         "business_days": 756,
-        "rate": 0.139639
+        "rate": 0.139552
       },
       {
         "business_days": 882,
-        "rate": 0.140479
+        "rate": 0.140267
       }
     ]
   },
@@ -232,31 +232,31 @@
     "vertices": [
       {
         "business_days": 126,
-        "rate": 0.090868
+        "rate": 0.090397
       },
       {
         "business_days": 252,
-        "rate": 0.081554
+        "rate": 0.081614
       },
       {
         "business_days": 378,
-        "rate": 0.078968
+        "rate": 0.079231
       },
       {
         "business_days": 504,
-        "rate": 0.078677
+        "rate": 0.078949
       },
       {
         "business_days": 630,
-        "rate": 0.079013
+        "rate": 0.079213
       },
       {
         "business_days": 756,
-        "rate": 0.079389
+        "rate": 0.079498
       },
       {
         "business_days": 882,
-        "rate": 0.079627
+        "rate": 0.079652
       }
     ]
   }
