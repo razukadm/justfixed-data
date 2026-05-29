@@ -4,3 +4,5 @@ BDI_00_*.pdf
 *.csv
 .~lock.*#
 *~
+
+BDI*.pdf
