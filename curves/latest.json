@@ -1,558 +1,558 @@
 {
-  "as_of": "2026-05-28",
+  "as_of": "2026-06-05",
   "schema_version": 1,
   "cdi": {
-    "anchor": "2026-05-28",
+    "anchor": "2026-06-05",
     "vertices": [
       {
-        "business_days": 2,
-        "rate": 0.14396
+        "business_days": 18,
+        "rate": 0.1436
       },
       {
-        "business_days": 23,
-        "rate": 0.14321
+        "business_days": 41,
+        "rate": 0.14337
       },
       {
-        "business_days": 46,
-        "rate": 0.14257
+        "business_days": 62,
+        "rate": 0.14349
       },
       {
-        "business_days": 67,
-        "rate": 0.14192
+        "business_days": 83,
+        "rate": 0.14364
       },
       {
-        "business_days": 88,
-        "rate": 0.14147
+        "business_days": 104,
+        "rate": 0.14373
       },
       {
-        "business_days": 109,
-        "rate": 0.14117
+        "business_days": 123,
+        "rate": 0.14397
       },
       {
-        "business_days": 128,
-        "rate": 0.14095
+        "business_days": 145,
+        "rate": 0.14392
       },
       {
-        "business_days": 150,
-        "rate": 0.14055
+        "business_days": 165,
+        "rate": 0.14427
       },
       {
-        "business_days": 170,
-        "rate": 0.14041
+        "business_days": 183,
+        "rate": 0.14469
       },
       {
-        "business_days": 188,
-        "rate": 0.14033
+        "business_days": 205,
+        "rate": 0.14493
       },
       {
-        "business_days": 210,
-        "rate": 0.14009
+        "business_days": 226,
+        "rate": 0.14524
       },
       {
-        "business_days": 231,
-        "rate": 0.13992
+        "business_days": 246,
+        "rate": 0.14551
       },
       {
-        "business_days": 273,
-        "rate": 0.13954
+        "business_days": 268,
+        "rate": 0.1457
       },
       {
-        "business_days": 295,
-        "rate": 0.13926
+        "business_days": 290,
+        "rate": 0.14581
       },
       {
-        "business_days": 338,
-        "rate": 0.13896
+        "business_days": 333,
+        "rate": 0.14623
       },
       {
-        "business_days": 358,
-        "rate": 0.13864
+        "business_days": 353,
+        "rate": 0.14625
       },
       {
-        "business_days": 378,
-        "rate": 0.13838
+        "business_days": 373,
+        "rate": 0.1463
       },
       {
-        "business_days": 401,
-        "rate": 0.13825
+        "business_days": 396,
+        "rate": 0.14644
       },
       {
-        "business_days": 464,
-        "rate": 0.13804
+        "business_days": 459,
+        "rate": 0.14676
       },
       {
-        "business_days": 525,
-        "rate": 0.13798
+        "business_days": 520,
+        "rate": 0.14705
       },
       {
-        "business_days": 589,
-        "rate": 0.13805
+        "business_days": 584,
+        "rate": 0.14727
       },
       {
-        "business_days": 610,
-        "rate": 0.13806
+        "business_days": 605,
+        "rate": 0.14733
       },
       {
-        "business_days": 629,
-        "rate": 0.13799
+        "business_days": 624,
+        "rate": 0.14731
       },
       {
-        "business_days": 649,
-        "rate": 0.13806
+        "business_days": 644,
+        "rate": 0.1474
       },
       {
-        "business_days": 710,
-        "rate": 0.1382
+        "business_days": 705,
+        "rate": 0.14736
       },
       {
-        "business_days": 773,
-        "rate": 0.13843
+        "business_days": 768,
+        "rate": 0.14742
       },
       {
-        "business_days": 837,
-        "rate": 0.13853
+        "business_days": 832,
+        "rate": 0.14723
       },
       {
-        "business_days": 859,
-        "rate": 0.13854
+        "business_days": 854,
+        "rate": 0.14723
       },
       {
-        "business_days": 878,
-        "rate": 0.13857
+        "business_days": 873,
+        "rate": 0.14718
       },
       {
-        "business_days": 898,
-        "rate": 0.13864
+        "business_days": 893,
+        "rate": 0.14718
       },
       {
-        "business_days": 959,
-        "rate": 0.13868
+        "business_days": 954,
+        "rate": 0.14694
       },
       {
-        "business_days": 1021,
-        "rate": 0.13887
+        "business_days": 1016,
+        "rate": 0.1469
       },
       {
-        "business_days": 1087,
-        "rate": 0.13878
+        "business_days": 1082,
+        "rate": 0.14653
       },
       {
-        "business_days": 1150,
-        "rate": 0.13895
+        "business_days": 1145,
+        "rate": 0.1465
       },
       {
-        "business_days": 1211,
-        "rate": 0.13895
+        "business_days": 1206,
+        "rate": 0.14647
       },
       {
-        "business_days": 1272,
-        "rate": 0.13915
+        "business_days": 1267,
+        "rate": 0.14645
       },
       {
-        "business_days": 1338,
-        "rate": 0.13929
+        "business_days": 1333,
+        "rate": 0.14642
       },
       {
-        "business_days": 1402,
-        "rate": 0.13951
+        "business_days": 1397,
+        "rate": 0.14656
       },
       {
-        "business_days": 1654,
-        "rate": 0.13992
+        "business_days": 1649,
+        "rate": 0.14658
       },
       {
-        "business_days": 1905,
-        "rate": 0.14003
+        "business_days": 1900,
+        "rate": 0.14649
       },
       {
-        "business_days": 2153,
-        "rate": 0.14
+        "business_days": 2148,
+        "rate": 0.14652
       },
       {
-        "business_days": 2402,
-        "rate": 0.1399
+        "business_days": 2397,
+        "rate": 0.14639
       },
       {
-        "business_days": 2655,
-        "rate": 0.14007
+        "business_days": 2650,
+        "rate": 0.14667
       },
       {
-        "business_days": 2904,
-        "rate": 0.13986
+        "business_days": 2899,
+        "rate": 0.14652
       },
       {
-        "business_days": 3155,
-        "rate": 0.13956
+        "business_days": 3150,
+        "rate": 0.14622
       },
       {
-        "business_days": 3406,
-        "rate": 0.13936
+        "business_days": 3401,
+        "rate": 0.14602
       },
       {
-        "business_days": 3656,
-        "rate": 0.13936
+        "business_days": 3651,
+        "rate": 0.14602
       }
     ]
   },
   "pre": {
-    "anchor": "2026-05-28",
+    "anchor": "2026-06-05",
     "vertices": [
       {
         "business_days": 126,
-        "rate": 0.139785
+        "rate": 0.142396
       },
       {
         "business_days": 252,
-        "rate": 0.138483
+        "rate": 0.145946
       },
       {
         "business_days": 378,
-        "rate": 0.138159
+        "rate": 0.147923
       },
       {
         "business_days": 504,
-        "rate": 0.138332
+        "rate": 0.148905
       },
       {
         "business_days": 630,
-        "rate": 0.138731
+        "rate": 0.149364
       },
       {
         "business_days": 756,
-        "rate": 0.139204
+        "rate": 0.149536
       },
       {
         "business_days": 882,
-        "rate": 0.139672
+        "rate": 0.149545
       },
       {
         "business_days": 1008,
-        "rate": 0.140097
+        "rate": 0.149464
       },
       {
         "business_days": 1134,
-        "rate": 0.140464
+        "rate": 0.149333
       },
       {
         "business_days": 1260,
-        "rate": 0.140769
+        "rate": 0.149181
       },
       {
         "business_days": 1386,
-        "rate": 0.141017
+        "rate": 0.14902
       },
       {
         "business_days": 1512,
-        "rate": 0.141213
+        "rate": 0.148862
       },
       {
         "business_days": 1638,
-        "rate": 0.141365
+        "rate": 0.14871
       },
       {
         "business_days": 1764,
-        "rate": 0.14148
+        "rate": 0.148567
       },
       {
         "business_days": 1890,
-        "rate": 0.141564
+        "rate": 0.148434
       },
       {
         "business_days": 2016,
-        "rate": 0.141623
+        "rate": 0.148312
       },
       {
         "business_days": 2142,
-        "rate": 0.141662
+        "rate": 0.1482
       },
       {
         "business_days": 2268,
-        "rate": 0.141685
+        "rate": 0.148097
       },
       {
         "business_days": 2394,
-        "rate": 0.141695
+        "rate": 0.148004
       },
       {
         "business_days": 2520,
-        "rate": 0.141695
+        "rate": 0.147918
       },
       {
         "business_days": 2646,
-        "rate": 0.141687
+        "rate": 0.147839
       }
     ]
   },
   "ipca_real": {
-    "anchor": "2026-05-28",
+    "anchor": "2026-06-05",
     "vertices": [
       {
         "business_days": 126,
-        "rate": 0.087774
+        "rate": 0.090749
       },
       {
         "business_days": 252,
-        "rate": 0.080598
+        "rate": 0.083909
       },
       {
         "business_days": 378,
-        "rate": 0.079397
+        "rate": 0.084157
       },
       {
         "business_days": 504,
-        "rate": 0.079645
+        "rate": 0.08548
       },
       {
         "business_days": 630,
-        "rate": 0.080043
+        "rate": 0.086476
       },
       {
         "business_days": 756,
-        "rate": 0.08027
+        "rate": 0.086956
       },
       {
         "business_days": 882,
-        "rate": 0.080291
+        "rate": 0.08701
       },
       {
         "business_days": 1008,
-        "rate": 0.080141
+        "rate": 0.086764
       },
       {
         "business_days": 1134,
-        "rate": 0.079869
+        "rate": 0.086323
       },
       {
         "business_days": 1260,
-        "rate": 0.079513
+        "rate": 0.085762
       },
       {
         "business_days": 1386,
-        "rate": 0.079106
+        "rate": 0.085137
       },
       {
         "business_days": 1512,
-        "rate": 0.078672
+        "rate": 0.084485
       },
       {
         "business_days": 1638,
-        "rate": 0.078227
+        "rate": 0.083831
       },
       {
         "business_days": 1764,
-        "rate": 0.077783
+        "rate": 0.083192
       },
       {
         "business_days": 1890,
-        "rate": 0.077349
+        "rate": 0.082577
       },
       {
         "business_days": 2016,
-        "rate": 0.076929
+        "rate": 0.081993
       },
       {
         "business_days": 2142,
-        "rate": 0.076527
+        "rate": 0.081442
       },
       {
         "business_days": 2268,
-        "rate": 0.076146
+        "rate": 0.080925
       },
       {
         "business_days": 2394,
-        "rate": 0.075785
+        "rate": 0.080442
       },
       {
         "business_days": 2520,
-        "rate": 0.075445
+        "rate": 0.079992
       },
       {
         "business_days": 2646,
-        "rate": 0.075125
+        "rate": 0.079573
       },
       {
         "business_days": 2772,
-        "rate": 0.074825
+        "rate": 0.079183
       },
       {
         "business_days": 2898,
-        "rate": 0.074544
+        "rate": 0.078821
       },
       {
         "business_days": 3024,
-        "rate": 0.074281
+        "rate": 0.078484
       },
       {
         "business_days": 3150,
-        "rate": 0.074035
+        "rate": 0.07817
       },
       {
         "business_days": 3276,
-        "rate": 0.073804
+        "rate": 0.077877
       },
       {
         "business_days": 3402,
-        "rate": 0.073587
+        "rate": 0.077604
       },
       {
         "business_days": 3528,
-        "rate": 0.073384
+        "rate": 0.077349
       },
       {
         "business_days": 3654,
-        "rate": 0.073193
+        "rate": 0.07711
       },
       {
         "business_days": 3780,
-        "rate": 0.073014
+        "rate": 0.076887
       },
       {
         "business_days": 3906,
-        "rate": 0.072845
+        "rate": 0.076677
       },
       {
         "business_days": 4032,
-        "rate": 0.072686
+        "rate": 0.076479
       },
       {
         "business_days": 4158,
-        "rate": 0.072536
+        "rate": 0.076294
       },
       {
         "business_days": 4284,
-        "rate": 0.072394
+        "rate": 0.076118
       },
       {
         "business_days": 4410,
-        "rate": 0.072261
+        "rate": 0.075953
       },
       {
         "business_days": 4536,
-        "rate": 0.072134
+        "rate": 0.075797
       },
       {
         "business_days": 4662,
-        "rate": 0.072014
+        "rate": 0.075649
       },
       {
         "business_days": 4788,
-        "rate": 0.0719
+        "rate": 0.075509
       },
       {
         "business_days": 4914,
-        "rate": 0.071792
+        "rate": 0.075375
       },
       {
         "business_days": 5040,
-        "rate": 0.071689
+        "rate": 0.075249
       },
       {
         "business_days": 5166,
-        "rate": 0.071591
+        "rate": 0.075128
       },
       {
         "business_days": 5292,
-        "rate": 0.071498
+        "rate": 0.075014
       },
       {
         "business_days": 5418,
-        "rate": 0.071409
+        "rate": 0.074904
       },
       {
         "business_days": 5544,
-        "rate": 0.071324
+        "rate": 0.0748
       },
       {
         "business_days": 5670,
-        "rate": 0.071243
+        "rate": 0.0747
       },
       {
         "business_days": 5796,
-        "rate": 0.071165
+        "rate": 0.074605
       },
       {
         "business_days": 5922,
-        "rate": 0.071091
+        "rate": 0.074513
       },
       {
         "business_days": 6048,
-        "rate": 0.071019
+        "rate": 0.074426
       },
       {
         "business_days": 6174,
-        "rate": 0.070951
+        "rate": 0.074342
       },
       {
         "business_days": 6300,
-        "rate": 0.070885
+        "rate": 0.074261
       },
       {
         "business_days": 6426,
-        "rate": 0.070822
+        "rate": 0.074183
       },
       {
         "business_days": 6552,
-        "rate": 0.070761
+        "rate": 0.074109
       },
       {
         "business_days": 6678,
-        "rate": 0.070703
+        "rate": 0.074037
       },
       {
         "business_days": 6804,
-        "rate": 0.070647
+        "rate": 0.073968
       },
       {
         "business_days": 6930,
-        "rate": 0.070592
+        "rate": 0.073902
       },
       {
         "business_days": 7056,
-        "rate": 0.07054
+        "rate": 0.073837
       },
       {
         "business_days": 7182,
-        "rate": 0.07049
+        "rate": 0.073776
       },
       {
         "business_days": 7308,
-        "rate": 0.070441
+        "rate": 0.073716
       },
       {
         "business_days": 7434,
-        "rate": 0.070394
+        "rate": 0.073658
       },
       {
         "business_days": 7560,
-        "rate": 0.070348
+        "rate": 0.073602
       },
       {
         "business_days": 7686,
-        "rate": 0.070304
+        "rate": 0.073548
       },
       {
         "business_days": 7812,
-        "rate": 0.070262
+        "rate": 0.073496
       },
       {
         "business_days": 7938,
-        "rate": 0.070221
+        "rate": 0.073445
       },
       {
         "business_days": 8064,
-        "rate": 0.070181
+        "rate": 0.073396
       },
       {
         "business_days": 8190,
-        "rate": 0.070142
+        "rate": 0.073349
       },
       {
         "business_days": 8316,
-        "rate": 0.070104
+        "rate": 0.073303
       },
       {
         "business_days": 8442,
-        "rate": 0.070068
+        "rate": 0.073258
       }
     ]
   }
