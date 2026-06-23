@@ -1,555 +1,588 @@
 {
-  "as_of": "2026-05-28",
+  "as_of": "2026-06-19",
   "schema_version": 1,
   "cdi": {
-    "anchor": "2026-05-28",
+    "anchor": "2026-06-19",
     "vertices": [
       {
-        "business_days": 23,
-        "rate": 0.14234
+        "business_days": 8,
+        "rate": 0.14152
       },
       {
-        "business_days": 46,
-        "rate": 0.14216
+        "business_days": 31,
+        "rate": 0.14152
       },
       {
-        "business_days": 67,
-        "rate": 0.14204
+        "business_days": 52,
+        "rate": 0.14122
       },
       {
-        "business_days": 88,
-        "rate": 0.14212
+        "business_days": 73,
+        "rate": 0.14122
       },
       {
-        "business_days": 109,
-        "rate": 0.14224
+        "business_days": 94,
+        "rate": 0.1414
       },
       {
-        "business_days": 128,
-        "rate": 0.14264
+        "business_days": 113,
+        "rate": 0.14195
       },
       {
-        "business_days": 150,
-        "rate": 0.14303
+        "business_days": 135,
+        "rate": 0.14256
       },
       {
-        "business_days": 170,
-        "rate": 0.14365
+        "business_days": 155,
+        "rate": 0.14338
       },
       {
-        "business_days": 188,
-        "rate": 0.14417
+        "business_days": 173,
+        "rate": 0.14419
       },
       {
-        "business_days": 210,
-        "rate": 0.14459
+        "business_days": 195,
+        "rate": 0.14489
       },
       {
-        "business_days": 231,
-        "rate": 0.14491
+        "business_days": 216,
+        "rate": 0.14556
       },
       {
-        "business_days": 251,
-        "rate": 0.14515
+        "business_days": 236,
+        "rate": 0.14601
       },
       {
-        "business_days": 273,
-        "rate": 0.14542
+        "business_days": 258,
+        "rate": 0.14667
       },
       {
-        "business_days": 295,
-        "rate": 0.14549
+        "business_days": 280,
+        "rate": 0.14705
       },
       {
-        "business_days": 338,
-        "rate": 0.14582
+        "business_days": 323,
+        "rate": 0.14778
       },
       {
-        "business_days": 358,
-        "rate": 0.14565
+        "business_days": 343,
+        "rate": 0.14784
       },
       {
-        "business_days": 378,
-        "rate": 0.14557
+        "business_days": 363,
+        "rate": 0.14794
       },
       {
-        "business_days": 401,
-        "rate": 0.14562
+        "business_days": 386,
+        "rate": 0.14814
       },
       {
-        "business_days": 464,
-        "rate": 0.14568
+        "business_days": 449,
+        "rate": 0.14859
       },
       {
-        "business_days": 525,
-        "rate": 0.14587
+        "business_days": 510,
+        "rate": 0.14901
       },
       {
-        "business_days": 589,
-        "rate": 0.14595
+        "business_days": 574,
+        "rate": 0.14928
       },
       {
-        "business_days": 610,
-        "rate": 0.14594
+        "business_days": 595,
+        "rate": 0.1493
       },
       {
-        "business_days": 629,
-        "rate": 0.1459
+        "business_days": 614,
+        "rate": 0.14932
       },
       {
-        "business_days": 649,
-        "rate": 0.14594
+        "business_days": 634,
+        "rate": 0.14939
       },
       {
-        "business_days": 710,
-        "rate": 0.14583
+        "business_days": 695,
+        "rate": 0.14945
       },
       {
-        "business_days": 773,
-        "rate": 0.14586
+        "business_days": 758,
+        "rate": 0.14962
       },
       {
-        "business_days": 837,
-        "rate": 0.14567
+        "business_days": 822,
+        "rate": 0.1495
       },
       {
-        "business_days": 859,
-        "rate": 0.1456
+        "business_days": 844,
+        "rate": 0.14942
       },
       {
-        "business_days": 878,
-        "rate": 0.14554
+        "business_days": 863,
+        "rate": 0.1494
       },
       {
-        "business_days": 898,
-        "rate": 0.14554
+        "business_days": 883,
+        "rate": 0.14942
       },
       {
-        "business_days": 959,
-        "rate": 0.14532
+        "business_days": 944,
+        "rate": 0.14926
       },
       {
-        "business_days": 1021,
-        "rate": 0.14525
+        "business_days": 1006,
+        "rate": 0.14929
       },
       {
-        "business_days": 1087,
-        "rate": 0.145
+        "business_days": 1072,
+        "rate": 0.14905
       },
       {
-        "business_days": 1150,
-        "rate": 0.14486
+        "business_days": 1135,
+        "rate": 0.14897
       },
       {
-        "business_days": 1211,
-        "rate": 0.14463
+        "business_days": 1196,
+        "rate": 0.14872
       },
       {
-        "business_days": 1272,
-        "rate": 0.14457
+        "business_days": 1257,
+        "rate": 0.1487
       },
       {
-        "business_days": 1338,
-        "rate": 0.14455
+        "business_days": 1323,
+        "rate": 0.14864
       },
       {
-        "business_days": 1402,
-        "rate": 0.14464
+        "business_days": 1387,
+        "rate": 0.14879
       },
       {
-        "business_days": 1654,
-        "rate": 0.14423
+        "business_days": 1639,
+        "rate": 0.14824
       },
       {
-        "business_days": 1905,
-        "rate": 0.14379
+        "business_days": 1890,
+        "rate": 0.14766
       },
       {
-        "business_days": 2153,
-        "rate": 0.14349
+        "business_days": 2138,
+        "rate": 0.14729
       },
       {
-        "business_days": 2402,
-        "rate": 0.14299
+        "business_days": 2387,
+        "rate": 0.1467
       },
       {
-        "business_days": 2655,
-        "rate": 0.14305
+        "business_days": 2640,
+        "rate": 0.14662
       },
       {
-        "business_days": 2904,
-        "rate": 0.14301
+        "business_days": 2889,
+        "rate": 0.14641
       },
       {
-        "business_days": 3155,
-        "rate": 0.14271
+        "business_days": 3140,
+        "rate": 0.14611
       },
       {
-        "business_days": 3406,
-        "rate": 0.14251
+        "business_days": 3391,
+        "rate": 0.14591
       },
       {
-        "business_days": 3656,
-        "rate": 0.14251
+        "business_days": 3641,
+        "rate": 0.14591
       }
     ]
   },
   "pre": {
-    "anchor": "2026-05-28",
+    "anchor": "2026-06-19",
     "vertices": [
       {
         "business_days": 126,
-        "rate": 0.140226
+        "rate": 0.140133
       },
       {
         "business_days": 252,
-        "rate": 0.143823
+        "rate": 0.143475
       },
       {
         "business_days": 378,
-        "rate": 0.146243
+        "rate": 0.145723
       },
       {
         "business_days": 504,
-        "rate": 0.147721
+        "rate": 0.147135
       },
       {
         "business_days": 630,
-        "rate": 0.1486
+        "rate": 0.147992
       },
       {
         "business_days": 756,
-        "rate": 0.149079
+        "rate": 0.148466
       },
       {
         "business_days": 882,
-        "rate": 0.149286
+        "rate": 0.148669
       },
       {
         "business_days": 1008,
-        "rate": 0.149305
+        "rate": 0.148683
       },
       {
         "business_days": 1134,
-        "rate": 0.149196
+        "rate": 0.148563
       },
       {
         "business_days": 1260,
-        "rate": 0.149001
+        "rate": 0.148354
       },
       {
         "business_days": 1386,
-        "rate": 0.148752
+        "rate": 0.148086
       },
       {
         "business_days": 1512,
-        "rate": 0.148469
+        "rate": 0.147781
       },
       {
         "business_days": 1638,
-        "rate": 0.14817
+        "rate": 0.147457
       },
       {
         "business_days": 1764,
-        "rate": 0.147865
+        "rate": 0.147125
       },
       {
         "business_days": 1890,
-        "rate": 0.147561
+        "rate": 0.146792
       },
       {
         "business_days": 2016,
-        "rate": 0.147264
+        "rate": 0.146467
       },
       {
         "business_days": 2142,
-        "rate": 0.146977
+        "rate": 0.146151
       },
       {
         "business_days": 2268,
-        "rate": 0.146702
+        "rate": 0.145847
       },
       {
         "business_days": 2394,
-        "rate": 0.146441
+        "rate": 0.145558
       },
       {
         "business_days": 2520,
-        "rate": 0.146194
+        "rate": 0.145283
       }
     ]
   },
   "ipca_real": {
-    "anchor": "2026-05-28",
+    "anchor": "2026-06-19",
     "vertices": [
       {
         "business_days": 126,
-        "rate": 0.091377
+        "rate": 0.091554
       },
       {
         "business_days": 252,
-        "rate": 0.085247
+        "rate": 0.086272
       },
       {
         "business_days": 378,
-        "rate": 0.085466
+        "rate": 0.086847
       },
       {
         "business_days": 504,
-        "rate": 0.08656
+        "rate": 0.087931
       },
       {
         "business_days": 630,
-        "rate": 0.087341
+        "rate": 0.088563
       },
       {
         "business_days": 756,
-        "rate": 0.087657
+        "rate": 0.088696
       },
       {
         "business_days": 882,
-        "rate": 0.087584
+        "rate": 0.088446
       },
       {
         "business_days": 1008,
-        "rate": 0.087229
+        "rate": 0.087932
       },
       {
         "business_days": 1134,
-        "rate": 0.086682
+        "rate": 0.08725
       },
       {
         "business_days": 1260,
-        "rate": 0.086014
+        "rate": 0.08647
       },
       {
         "business_days": 1386,
-        "rate": 0.085276
+        "rate": 0.085641
       },
       {
         "business_days": 1512,
-        "rate": 0.084504
+        "rate": 0.084798
       },
       {
         "business_days": 1638,
-        "rate": 0.083727
+        "rate": 0.083966
       },
       {
         "business_days": 1764,
-        "rate": 0.08296
+        "rate": 0.08316
       },
       {
         "business_days": 1890,
-        "rate": 0.082217
+        "rate": 0.082388
       },
       {
         "business_days": 2016,
-        "rate": 0.081505
+        "rate": 0.081657
       },
       {
         "business_days": 2142,
-        "rate": 0.080828
+        "rate": 0.080969
       },
       {
         "business_days": 2268,
-        "rate": 0.080188
+        "rate": 0.080324
       },
       {
         "business_days": 2394,
-        "rate": 0.079586
+        "rate": 0.079722
       },
       {
         "business_days": 2520,
-        "rate": 0.079021
+        "rate": 0.07916
       },
       {
         "business_days": 2646,
-        "rate": 0.078492
+        "rate": 0.078638
       },
       {
         "business_days": 2772,
-        "rate": 0.077997
+        "rate": 0.078151
       },
       {
         "business_days": 2898,
-        "rate": 0.077534
+        "rate": 0.077698
       },
       {
         "business_days": 3024,
-        "rate": 0.077102
+        "rate": 0.077277
       },
       {
         "business_days": 3150,
-        "rate": 0.076698
+        "rate": 0.076884
       },
       {
         "business_days": 3276,
-        "rate": 0.07632
+        "rate": 0.076518
       },
       {
         "business_days": 3402,
-        "rate": 0.075966
+        "rate": 0.076176
       },
       {
         "business_days": 3528,
-        "rate": 0.075635
+        "rate": 0.075856
       },
       {
         "business_days": 3654,
-        "rate": 0.075324
+        "rate": 0.075557
       },
       {
         "business_days": 3780,
-        "rate": 0.075032
+        "rate": 0.075276
       },
       {
         "business_days": 3906,
-        "rate": 0.074757
+        "rate": 0.075013
       },
       {
         "business_days": 4032,
-        "rate": 0.074499
+        "rate": 0.074765
       },
       {
         "business_days": 4158,
-        "rate": 0.074256
+        "rate": 0.074532
       },
       {
         "business_days": 4284,
-        "rate": 0.074026
+        "rate": 0.074312
       },
       {
         "business_days": 4410,
-        "rate": 0.073809
+        "rate": 0.074105
       },
       {
         "business_days": 4536,
-        "rate": 0.073604
+        "rate": 0.073908
       },
       {
         "business_days": 4662,
-        "rate": 0.073409
+        "rate": 0.073722
       },
       {
         "business_days": 4788,
-        "rate": 0.073225
+        "rate": 0.073546
       },
       {
         "business_days": 4914,
-        "rate": 0.07305
+        "rate": 0.073379
       },
       {
         "business_days": 5040,
-        "rate": 0.072883
+        "rate": 0.07322
       },
       {
         "business_days": 5166,
-        "rate": 0.072725
+        "rate": 0.073069
       },
       {
         "business_days": 5292,
-        "rate": 0.072573
+        "rate": 0.072924
       },
       {
         "business_days": 5418,
-        "rate": 0.072429
+        "rate": 0.072787
       },
       {
         "business_days": 5544,
-        "rate": 0.072292
+        "rate": 0.072656
       },
       {
         "business_days": 5670,
-        "rate": 0.07216
+        "rate": 0.07253
       },
       {
         "business_days": 5796,
-        "rate": 0.072035
+        "rate": 0.07241
       },
       {
         "business_days": 5922,
-        "rate": 0.071914
+        "rate": 0.072295
       },
       {
         "business_days": 6048,
-        "rate": 0.071799
+        "rate": 0.072185
       },
       {
         "business_days": 6174,
-        "rate": 0.071688
+        "rate": 0.07208
       },
       {
         "business_days": 6300,
-        "rate": 0.071582
+        "rate": 0.071978
       },
       {
         "business_days": 6426,
-        "rate": 0.071479
+        "rate": 0.071881
       },
       {
         "business_days": 6552,
-        "rate": 0.071381
+        "rate": 0.071787
       },
       {
         "business_days": 6678,
-        "rate": 0.071287
+        "rate": 0.071697
       },
       {
         "business_days": 6804,
-        "rate": 0.071196
+        "rate": 0.07161
       },
       {
         "business_days": 6930,
-        "rate": 0.071108
+        "rate": 0.071527
       },
       {
         "business_days": 7056,
-        "rate": 0.071023
+        "rate": 0.071446
       },
       {
         "business_days": 7182,
-        "rate": 0.070942
+        "rate": 0.071368
       },
       {
         "business_days": 7308,
-        "rate": 0.070863
+        "rate": 0.071293
       },
       {
         "business_days": 7434,
-        "rate": 0.070787
+        "rate": 0.07122
       },
       {
         "business_days": 7560,
-        "rate": 0.070713
+        "rate": 0.07115
       },
       {
         "business_days": 7686,
-        "rate": 0.070642
+        "rate": 0.071082
       },
       {
         "business_days": 7812,
-        "rate": 0.070573
+        "rate": 0.071017
       },
       {
         "business_days": 7938,
-        "rate": 0.070506
+        "rate": 0.070953
       },
       {
         "business_days": 8064,
-        "rate": 0.070442
+        "rate": 0.070891
       },
       {
         "business_days": 8190,
-        "rate": 0.070379
+        "rate": 0.070832
       },
       {
         "business_days": 8316,
-        "rate": 0.070318
+        "rate": 0.070774
       },
       {
         "business_days": 8442,
-        "rate": 0.070259
+        "rate": 0.070718
       }
     ]
+  },
+  "provenance": {
+    "manifest_version": 1,
+    "tool": {
+      "name": "justfixed.publish_curves",
+      "version": "0.1.0",
+      "git_commit": "357f54f"
+    },
+    "sources": [
+      {
+        "role": "b3_bdi_pdf",
+        "produces": [
+          "cdi"
+        ],
+        "filename": "BDI.pdf",
+        "sha256": "4f7893ccce77fd3e0ede8c9337b719b5160593fc3349a84bcf13bce29df7b0f3",
+        "size_bytes": 24806329,
+        "retained": "raw/2026-06-19/BDI.pdf"
+      },
+      {
+        "role": "anbima_ettj_csv",
+        "produces": [
+          "pre",
+          "ipca_real"
+        ],
+        "filename": "CurvaZero_.csv",
+        "sha256": "7db4ebb01fbc5ba2e139f733c1ab281593c36e720a8fd192a5df900e20d2d8bb",
+        "size_bytes": 3013,
+        "retained": "raw/2026-06-19/CurvaZero_.csv"
+      }
+    ],
+    "convention": "252 bd/yr; B3/ANBIMA holidays",
+    "notes": "Curve sections unchanged (schema_version 1). No wall-clock timestamp -- publish time is the data-repo commit."
   }
 }
